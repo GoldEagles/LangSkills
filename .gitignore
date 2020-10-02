@@ -5,3 +5,13 @@
 /Common/obj
 /Common/bin/Debug/netcoreapp3.1
 /.vs
+/Data/obj
+/Data/bin/Debug/netcoreapp3.1
+/Entities/bin/Debug/netcoreapp3.1
+/Entities/obj
+/Services/bin/Debug/netcoreapp3.1
+/Services/obj
+/WebApi/bin/Debug/netcoreapp3.1
+/WebApi/obj
+/WebFramework/bin/Debug/netcoreapp3.1
+/WebFramework/obj
